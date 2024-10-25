@@ -1,5 +1,4 @@
 #prints hello world
-
 input("Write something:")
 print('Hello world')
 print("This is another print statement. I just wanted to test it")
@@ -38,7 +37,6 @@ print("x + y =", x + y)
 fd = 45
 tf = 67
 
-
 fd -= 45
 tf -= 67
 print("fd - tf =", fd - tf)
@@ -58,7 +56,6 @@ print (message3)
 print (message4)
 
 # new line repeating code
-
 input("Write another thing here:")
 print('Hello world again')
 print("Another comment to test what I remember")
@@ -90,6 +87,3 @@ print(message20)
 print(message21)
 print(message22)
 print(message23)
-
-
- 
